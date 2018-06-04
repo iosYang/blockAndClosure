@@ -1,0 +1,2 @@
+# blockAndClosure
+OC下的block和Swift下的closure
